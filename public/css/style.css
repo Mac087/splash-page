@@ -1,0 +1,99 @@
+.navbar {
+  background-color: #2E424E;
+}
+
+#home-section {
+  background: url(/img/hero_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 1180px;
+  position: relative;
+}
+
+#logos {
+  background: url(/img/logos.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 128px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#icons {
+  background-color: #2E424E;
+  color: white;
+}
+
+.icon-class {
+  width: 95%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.icon-box img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+.icon-box h2 {
+  text-align: center;
+}
+
+.divider {
+  height: 15px;
+}
+
+#gray {
+  background-color: #EFF2F7;
+}
+
+.large-block img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  vertical-align: middle;
+}
+
+.large-block h1 {
+  margin-top: 20px;
+  color: #2E424E;
+}
+
+.row-card {
+  bottom: 10px;
+  position: absolute;
+  width: 100%;
+  color: #B7B7B9;
+}
+
+.card {
+  background: rgba(239, 242, 247, 0.4);
+  width: 125%;
+}
+
+.btn-success {
+  background-color: #32A36B;
+}
+
+.form-control-lg {
+  height: calc(2.875rem + 40px);
+  font-size: 2.75rem;
+}
+
+.form-control::placeholder {
+  color: #B2B2B4;
+  font-weight: 100;
+}
+
+.card h1,
+h2 {
+  font-weight: 300;
+}
+
+.btn-group-lg>.btn,
+.btn-lg {
+  font-size: 2.75rem;
+}
